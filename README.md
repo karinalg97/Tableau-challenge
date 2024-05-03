@@ -7,7 +7,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
   1. Design 2–5 visualizations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different         periods.
              The following are questions you may wish to answer. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
 
-                     How many trips have been recorded in total during the chosen period?
+                    How many trips have been recorded in total during the chosen period?
 
                     By what percentage has total ridership grown?
 
@@ -43,7 +43,7 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
   4. Create your final presentation:
 
-         Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
+          Create a Tableau story that brings together the visualizations, requested maps, and dashboards.
 
           Ensure your presentation is professional, logical, and visually appealing.
 
